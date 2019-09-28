@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="1" passed="1">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Default suite" duration-ms="19650" started-at="2019-02-04T15:47:19Z" finished-at="2019-02-04T15:47:38Z">
+    <groups>
+    </groups>
+    <test name="Default test" duration-ms="19650" started-at="2019-02-04T15:47:19Z" finished-at="2019-02-04T15:47:38Z">
+      <class name="script.mnu_Demo">
+        <test-method status="PASS" signature="beforeMethod()[pri:0, instance:script.mnu_Demo@57fffcd7]" name="beforeMethod" is-config="true" duration-ms="9873" started-at="2019-02-04T15:47:19Z" finished-at="2019-02-04T15:47:29Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- beforeMethod -->
+        <test-method status="PASS" signature="menu()[pri:0, instance:script.mnu_Demo@57fffcd7]" name="menu" duration-ms="9738" started-at="2019-02-04T15:47:29Z" finished-at="2019-02-04T15:47:38Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- menu -->
+        <test-method status="PASS" signature="afterMethod()[pri:0, instance:script.mnu_Demo@57fffcd7]" name="afterMethod" is-config="true" duration-ms="0" started-at="2019-02-04T15:47:38Z" finished-at="2019-02-04T15:47:38Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- afterMethod -->
+      </class> <!-- script.mnu_Demo -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
